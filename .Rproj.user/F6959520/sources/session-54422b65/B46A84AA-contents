@@ -1,0 +1,38 @@
+# Tyypillinen sanalista Ankiin
+
+Varsinkin tavallisten sanastojen automaattinen konvertoiminen Anki-korteiksi on todella helppoa. 
+
+![](_main_files/images/excellista.PNG)
+
+## Vaihe 1 
+
+Tallenna tiedosto .csv-tiedostona
+
+- Huomio! Tiedosto kannattaa tallentaa csv UTF-8 (Comma delimited) -versiona, jotta sen importointi Ankiin onnistuu (varsinkin ääkköset vaativat tämän formaatin)
+
+![](_main_files/images/csv.PNG)
+
+## Vaihe 2 
+
+Importoi tiedosto Ankiin 
+
+![](_main_files/images/import1.PNG)
+
+## Vaihe 3 
+
+Muokkaa importointiasetuksia
+
+- Jos haluat vain tyypilliseen tapaan kortteja, joissa etupuolella on opiskeltava sana, niin voi tehdä tällä tavalla
+
+![](_main_files/images/importset.PNG)
+
+Jos haluat tehdä lisäksi kortteja, joiden etupuolella on tuntemasi kieli ja takapuolella opiskeltava sana, niin voi tehdä näin 
+
+![](_main_files/images/importsetandreverse.PNG)
+
+Sitten voi importoida ja olet valmis. 
+
+
+
+
+
