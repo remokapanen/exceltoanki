@@ -6,8 +6,6 @@ Pelkän tekstin ja audion lisäksi kortteihin voi käytännössä lisätä mitä
 
 Ankin sisällä on vaikeaa tehdä suuria automaattisia muutoksia kortteihin, joten jos haluaa automatisoida lisäyksiä, kannattaa ne tehdä ennen Ankiin importoimista. 
 
-  - Esimerkiksi jos haluaa lisätä kaikkiin kortteihin linkin kortin sanan Wiktionary-sivulle, nämä linkit kannattaisi olla jo tiedostossa, kun se importoidaan Ankiin. 
-  
 Mm. [Cursoria](https://cursor.com/) hyödyntämällä voi automatisoida paljon erilaisia muutoksia tiedostoon ja ollessaan muutoksiin tyytyväinen voi sen importoida Ankiin soveliaalle korttipohjalle. 
 
 - Työkalua voi esim. käskeä tekemään esimerkkilauseita sanoille tai etsimään sanojen etymologian ja lisäämään ne omaan kolumniinsa, joka sitten tulee esiin korttiin Ankiin importoidessa sopivalle korttipohjalle. 
