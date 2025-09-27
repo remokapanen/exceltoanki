@@ -16,4 +16,6 @@ Kaikki äänimallit eivät ole käytettävissä ilmaisversiossa, mutta esim. Goo
 
 - Sitten voi painaa generoi -> kortteihin tulee äänet (voi kestää jonkin verran aikaa)
 
+  - Jos ei halua odottaa tätä generointiaikaa, niin lisäosassa on myös mahdollisuus tuottaa audiota kortteja kerratessa ilman, että korteissa itsessään olisi natiivisti audio. Tämä ns. [On the fly TTS](https://www.vocab.ai/tutorials/awesometts-on-the-fly-tts) säästää aikaa, mutta toiminto ei toimi Android-pohjaisella laitteella kerratessa. 
+
 ![](_main_files/images/ttsset.PNG)
